@@ -10,5 +10,5 @@ The paper is about distinguishing phase change gate and identity gate using a Qu
 </ol>
 
 The circuit is then tested on IBM Quantum Processor.<br>
-To run the Jupyter Notebook you will need to install Python 3.5+, qiskit 0.6 and an account on [![IBM Q](https://quantumexperience.ng.bluemix.net/qx)].
+To run the Jupyter Notebook you will need to install Python 3.5+, qiskit 0.6 and an account on [[IBM Q](https://quantumexperience.ng.bluemix.net/qx)].
 
