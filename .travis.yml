@@ -2,5 +2,5 @@ language: python
 python:
  - "3.5"
 install:
- - pip install -r requirements.txt
-
+ - pip install qiskit
+ - pip install jupyterlab
