@@ -177,7 +177,7 @@ topic-tools==1.12.14
 tornado==5.1.1
 traitlets==4.3.2
 unique-id==1.0.5
-urllib3==1.23
+urllib3==1.24.2
 wcwidth==0.1.7
 webencodings==0.5.1
 xacro==1.11.3
