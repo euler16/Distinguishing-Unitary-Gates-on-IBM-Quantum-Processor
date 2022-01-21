@@ -37,7 +37,7 @@ idna==2.7
 image-geometry==1.12.8
 interactive-markers==1.11.4
 ipykernel==5.0.0
-ipython==7.0.1
+ipython==7.16.3
 ipython-genutils==0.2.0
 jedi==0.12.1
 Jinja2==2.10
